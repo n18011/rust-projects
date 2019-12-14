@@ -45,6 +45,13 @@ fn main (){
     let remainder = 43 % 5;
     */
 
+    /*
     let t = true;
     let f: bool = false; // 明示的型注釈
+    */
+
+    let c = 'z';
+    let z = 'Ｚ';
+    let heart_eyed_cat = '😻';
+
 }
