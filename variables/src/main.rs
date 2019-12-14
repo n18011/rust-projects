@@ -18,6 +18,6 @@ fn main() {
 /* データ型
  */
 fn main (){
-    let guess: u32 = "42".parse().expect("Not a number!");    // 数字ではありません！
+    let guess = "42".parse().expect("Not a number!");    // 数字ではありません！
     println!("guess is {}", guess);
 }
