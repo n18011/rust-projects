@@ -28,6 +28,7 @@ fn main (){
     let y: f32 = 3.0; // f32
     */
 
+    /*
     // 足し算
     let sum = 5 + 10;
 
@@ -42,4 +43,8 @@ fn main (){
 
     // 余り
     let remainder = 43 % 5;
+    */
+
+    let t = true;
+    let f: bool = false; // 明示的型注釈
 }
