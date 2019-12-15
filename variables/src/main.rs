@@ -57,5 +57,13 @@ fn main (){
     */
 
     let tup: (i32, f64, u8) = (500, 6.3, 1);
+    // let (x, y, z) = (500, 6.3, 1);
+    // println!("The value of tup.2 is: {}", tup.2);
+    let five_hundred = tup.0;
+    let six_point_three = tup.1;
+    let one = tup.2;
+    println!("The value of five_hundred is: {}", five_hundred);
+    println!("The value of six_point_three is: {}", six_point_three);
+    println!("The value of one is: {}", one);
 
 }
