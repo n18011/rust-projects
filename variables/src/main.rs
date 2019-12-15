@@ -50,8 +50,12 @@ fn main (){
     let f: bool = false; // 明示的型注釈
     */
 
+    /*
     let c = 'z';
     let z = 'Ｚ';
     let heart_eyed_cat = '😻';
+    */
+
+    let tup: (i32, f64, u8) = (500, 6.3, 1);
 
 }
