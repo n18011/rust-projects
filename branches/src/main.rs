@@ -1,4 +1,5 @@
 fn main() {
+    /*
    // let number = 3;
     let number = 7;
 
@@ -7,4 +8,11 @@ fn main() {
     } else {
         println!("condition was false");      // 条件は偽でした
     }
+    */
+    let number = 3;
+
+    if number {
+        println!("number was three");     // 数値は3です
+    }
+
 }
