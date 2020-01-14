@@ -16,7 +16,6 @@ fn main() {
 */
 
 /* データ型
- */
 fn main (){
     /*
     let guess = "42".parse().expect("Not a number!");    // 数字ではありません！
@@ -81,4 +80,6 @@ fn main (){
     let index = 10;
     let element = a[index];
     println!("The value of element is: {}", element);
+
 }
+ */
